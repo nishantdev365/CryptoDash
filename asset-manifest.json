@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CryptoDash/static/css/main.fb847020.css",
+    "main.js": "/CryptoDash/static/js/main.e398c351.js",
+    "static/media/cryptocurrency.png": "/CryptoDash/static/media/cryptocurrency.ca39812d70b378da1fcc.png",
+    "index.html": "/CryptoDash/index.html",
+    "main.fb847020.css.map": "/CryptoDash/static/css/main.fb847020.css.map",
+    "main.e398c351.js.map": "/CryptoDash/static/js/main.e398c351.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb847020.css",
+    "static/js/main.e398c351.js"
+  ]
+}
