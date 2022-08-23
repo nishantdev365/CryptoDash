@@ -14,7 +14,7 @@ const App = () => (
         <div className="routes">
           <Routes>
 
-            <Route path="/CryptoDash" element={<Homepage />} />
+            <Route path="/" element={<Homepage />} />
             
             <Route path="/cryptocurrencies" element={<Cryptocurrencies />} />
              
